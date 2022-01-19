@@ -15,6 +15,7 @@ export const query = graphql`
     }
   }
 `;
+
 function sortAndExtendBooks(books) {
   return books
     .sort((a, b) => a.seriesOrder - b.seriesOrder)

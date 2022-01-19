@@ -2,7 +2,7 @@ import * as React from 'react';
 import { graphql, Link } from 'gatsby';
 import { GatsbyImage, getImage } from 'gatsby-plugin-image';
 
-import { listing, heading } from '../styles.book.module.css';
+import { listing, heading } from '../styles/book.module.css';
 
 export const query = graphql`
   query ($id: String!) {
