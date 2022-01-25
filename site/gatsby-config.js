@@ -3,12 +3,16 @@ module.exports = {
     title: 'My Book Club',
     navItems: [
       {
-        label: 'books',
+        label: 'Books',
         path: '/books',
       },
       {
-        label: 'authors',
+        label: 'Authors',
         path: '/authors',
+      },
+      {
+        label: 'Account',
+        path: '/account',
       },
     ],
   },
