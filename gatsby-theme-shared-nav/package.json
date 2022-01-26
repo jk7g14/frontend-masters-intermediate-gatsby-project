@@ -2,6 +2,7 @@
   "name": "gatsby-theme-shared-nav",
   "version": "1.0.0",
   "main": "gatsby-config.js",
+  "author": "Jaehun Kim <jk7g14@gmail.com> (https://jk7g14.github.io/)",
   "license": "MIT",
   "peerDependencies": {
     "gatsby": "3.11.1"
