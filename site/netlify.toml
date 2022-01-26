@@ -1,0 +1,5 @@
+[build]
+  command = "yarn workpace site build"
+  publish = "public"
+  evironment = { NETFLIFY_USE_YARN = "true" }
+  
